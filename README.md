@@ -10,5 +10,5 @@ At this point, there is only one button "update calculations" on green. When it 
 
 As I mentioned, backend is based on django project structure. The most relevant thing what I have done totally myself are in files api/authorization, api/logic.py and frontend/src
 
-Below is short example gif how this web application works and seems like.
+Below is short example gif how this web application works and seems.
 ![](https://github.com/ViljoHo/ebikeVScar/blob/main/example.gif)
