@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: pink;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
